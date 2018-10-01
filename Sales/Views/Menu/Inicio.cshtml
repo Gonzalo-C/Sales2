@@ -1,0 +1,25 @@
+﻿@model List<ClassLibrary1.CLIEN_DB>
+@{
+        ViewBag.Title = "Ejemplo";
+  
+ }
+
+        <h2>Ejemplo</h2>
+
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Rut</th>
+                    <th>Razsoc</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var a in Model)
+                {
+                    <tr>
+                        <td>@a.RUT</td>
+                        <td>@a.RAZSOC</td>
+                    </tr>
+                }
+            </tbody>
+        </table>

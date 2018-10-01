@@ -1,0 +1,11 @@
+C:\Users\Gonzalo\source\repos\Sales2\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\Gonzalo\source\repos\Sales2\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\Gonzalo\source\repos\Sales2\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\Gonzalo\source\repos\Sales2\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Gonzalo\source\repos\Sales2\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\Gonzalo\source\repos\Sales2\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Gonzalo\source\repos\Sales2\ClassLibrary1\obj\Debug\modelo.csprojAssemblyReference.cache
+C:\Users\Gonzalo\source\repos\Sales2\ClassLibrary1\obj\Debug\modelo.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\source\repos\Sales2\ClassLibrary1\obj\Debug\modelo.csproj.CopyComplete
+C:\Users\Gonzalo\source\repos\Sales2\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\Gonzalo\source\repos\Sales2\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
